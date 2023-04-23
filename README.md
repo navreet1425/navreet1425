@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 <p align="left"> <a href="https://twitter.com/navreet1425" target="blank"><img src="https://img.shields.io/twitter/follow/navreet1425?logo=twitter&style=for-the-badge" alt="navreet1425" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/akr3ch/akr3ch/main/icons/code.gif">
  🔭 I’m currently working on NEXA
 
 - 👯 A Security Researcher too at BugCrowd And HackerOne 🔍💻
