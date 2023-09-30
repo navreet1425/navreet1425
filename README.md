@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/navreet-singh-rnns142500/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://instagram.com/navi__14" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navi__14" height="30" width="40" /></a>
 <a href="https://www.behance.net/navreetsingh1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="navreetsingh1" height="30" width="40" /></a>
-<a href="https://medium.com/@navreetsingh656" target="_blank"><img align="center" src="https://raw.hubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="navreetsingh656" height="30" width="40" /></a>
+<a href="https://medium.com/@navreet1425" target="_blank"><img align="center" src="https://raw.hubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="navreetsingh656" height="30" width="40" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navreet1425&label=Profile%20views&color=0e75b6&style=flat" alt="navreet1425" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navreet1425" alt="navreet1425" /></a> </p>
