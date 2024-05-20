@@ -1,6 +1,6 @@
 ![MasterHead](https://blog.vueschool.io/wp-content/uploads/2021/07/eslint-in-action.gif)
 <h1 align="center">Hi 👋, I'm Navreet</h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
+<h3 align="center">A passionate Security Analayst </h3>
 <p align="left"> <a href="https://twitter.com/navreet1425" target="blank"><img src="https://img.shields.io/twitter/follow/navreet1425?logo=twitter&style=for-the-badge" alt="navreet1425" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/akr3ch/akr3ch/main/icons/code.gif">
