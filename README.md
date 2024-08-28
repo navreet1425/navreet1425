@@ -10,7 +10,7 @@
  
 - 🤝 I’m looking for help with **Nexa**
 
-- 📫 How to reach me **navreet14250@gmail.com**
+- 📫 How to reach me **navi14250@gmail.com**
 
 - ⚡ Fun fact **Coding Is Boring xD**
 <h3 align="left">Connect with me:</h3>
